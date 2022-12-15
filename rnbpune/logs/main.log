@@ -1,0 +1,315 @@
+2022-12-11 18:49:17,888 +0530 [main] INFO  (Baseclass.java:55) - setup chrome driver is lounched
+2022-12-11 18:49:21,798 +0530 [main] INFO  (Baseclass.java:63) - url is loaded
+2022-12-11 18:49:25,989 +0530 [main] INFO  (trial.java:19) - check the usernamefrom propertiesfile
+2022-12-11 18:49:26,002 +0530 [main] INFO  (Baseclass.java:75) - browser is closed
+2022-12-11 18:39:47,481 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-11 18:39:49,946 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-11 18:39:56,512 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-11 18:39:56,841 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-11 18:40:00,954 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:25) - login with valid username and password
+2022-12-11 18:40:00,975 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:25) - login with valid username and password
+2022-12-11 18:40:21,608 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:29) - validate the login fucnctionality 
+2022-12-11 18:40:21,650 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-11 18:40:22,466 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:29) - validate the login fucnctionality 
+2022-12-11 18:40:22,492 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-11 18:46:58,198 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-11 18:47:02,265 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-11 18:47:05,802 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:25) - login with valid username and password
+2022-12-11 18:47:22,810 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:29) - validate the login fucnctionality 
+2022-12-11 18:47:22,866 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-11 18:22:26,240 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-11 18:22:31,538 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-11 18:22:35,940 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:25) - login with valid username and password
+2022-12-11 18:22:54,174 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:29) - validate the login fucnctionality 
+2022-12-11 18:22:54,196 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-11 18:24:22,413 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-11 18:24:26,545 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-11 18:24:29,933 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:25) - login with valid username and password
+2022-12-11 18:24:46,744 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:29) - validate the login fucnctionality 
+2022-12-11 18:24:46,767 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 10:43:27,782 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 10:43:27,833 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 10:43:38,918 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 10:43:39,453 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 10:43:43,001 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:25) - login with valid username and password
+2022-12-12 10:43:46,755 +0530 [main] INFO  (TC_RNB_LOGIN_001.java:29) - validate the login fucnctionality 
+2022-12-12 10:43:46,937 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 10:44:52,746 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 10:45:34,912 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 10:45:38,878 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 10:47:23,615 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 10:47:30,846 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 10:49:28,331 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 10:49:35,313 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 11:40:57,583 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 11:41:03,891 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 11:41:09,441 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 11:43:02,005 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 11:43:06,498 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 11:43:11,142 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 11:44:52,916 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 11:45:40,362 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 11:45:41,401 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 11:45:47,027 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:45:47,733 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 11:45:50,665 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:45:50,751 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:45:53,381 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:45:55,126 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:45:55,226 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:45:56,925 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:45:56,995 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:45:58,789 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:45:58,876 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:46:00,514 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:46:00,653 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:46:02,366 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:46:02,463 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:46:04,496 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:46:05,057 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:46:05,142 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:46:06,521 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 11:46:08,608 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:31) - validte the  usernameand password
+2022-12-12 11:46:08,867 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:46:10,940 +0530 [main] INFO  (TC_RNB_LOGIN_002.java:27) - logine with username and password
+2022-12-12 11:46:12,995 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 18:30:07,018 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 18:30:15,823 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 18:30:22,803 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:30:24,904 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:30:26,948 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:30:28,980 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:30:31,011 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:30:33,056 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:30:35,087 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:30:37,144 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 18:31:25,717 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 18:31:30,151 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 18:31:37,146 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:31:39,259 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:31:41,284 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:31:43,323 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:31:45,365 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:31:47,396 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:31:49,478 +0530 [main] INFO  (TC_RNB_Activity_003.java:28) - enter the valid usernameand password
+2022-12-12 18:31:51,512 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 18:34:06,792 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 18:34:10,969 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 18:34:20,177 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:34:42,372 +0530 [main] INFO  (TC_RNB_Activity_003.java:36) - click on acitivity module 
+2022-12-12 18:34:47,667 +0530 [main] INFO  (TC_RNB_Activity_003.java:40) - add actvity feature 
+2022-12-12 18:34:53,031 +0530 [main] INFO  (TC_RNB_Activity_003.java:44) - fill all the necessory data
+2022-12-12 18:34:58,497 +0530 [main] INFO  (TC_RNB_Activity_003.java:49) - click on save button:
+2022-12-12 18:34:58,497 +0530 [main] INFO  (TC_RNB_Activity_003.java:51) - validation of activity deatils page
+2022-12-12 18:34:58,550 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:35:10,669 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:35:22,717 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:35:34,815 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:35:46,925 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:35:58,997 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:36:11,093 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 17:40:40,105 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 17:40:44,151 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 17:40:51,371 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:41:08,360 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 17:41:13,470 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-12 17:41:15,598 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-12 17:41:20,898 +0530 [main] INFO  (TC_RNB_Activity_003.java:48) - click on save button:
+2022-12-12 17:41:20,899 +0530 [main] INFO  (TC_RNB_Activity_003.java:50) - validation of activity deatils page
+2022-12-12 17:41:20,941 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:41:33,023 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:41:45,093 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:41:52,538 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 17:41:57,139 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:41:59,312 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 17:42:06,695 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:42:09,226 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:42:21,262 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:42:24,408 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 17:42:27,241 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-12 17:42:29,561 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-12 17:42:33,330 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 17:42:34,463 +0530 [main] INFO  (TC_RNB_Activity_003.java:48) - click on save button:
+2022-12-12 17:42:34,464 +0530 [main] INFO  (TC_RNB_Activity_003.java:50) - validation of activity deatils page
+2022-12-12 17:42:34,602 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:42:46,679 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:42:58,744 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:43:10,821 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:43:22,905 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:43:34,979 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:43:47,072 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 17:47:56,508 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 17:48:00,673 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 17:48:07,691 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:48:21,244 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 17:48:21,361 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:48:23,394 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:48:25,435 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:48:27,467 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:48:29,506 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:48:31,558 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:48:33,604 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 17:49:27,112 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 17:49:31,529 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 17:49:38,943 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:49:57,339 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 17:50:00,321 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-12 17:50:13,509 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-12 17:50:18,191 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:50:30,282 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:50:33,901 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:50:35,932 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:50:37,958 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:50:39,993 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:50:42,034 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 17:52:10,666 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 17:52:14,937 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 17:52:22,526 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:52:37,452 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 17:52:40,300 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-12 17:52:42,957 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-12 17:52:46,426 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:52:53,861 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:52:55,928 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:52:57,972 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:53:00,010 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:53:02,038 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 17:53:04,064 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 18:22:01,832 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 18:22:08,187 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 18:22:16,465 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:22:40,181 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 18:22:45,419 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-12 18:22:48,437 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-12 18:22:56,279 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:23:08,377 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:23:20,462 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:23:32,553 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:23:44,610 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:23:46,644 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:23:48,683 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 18:27:46,855 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 18:27:51,266 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 18:27:58,799 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:28:03,295 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 18:28:03,435 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:28:05,496 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:28:07,544 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:28:09,599 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:28:11,619 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:28:13,658 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:28:15,708 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 18:29:20,350 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 18:29:25,160 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 18:29:32,407 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:29:57,207 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 18:30:01,741 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-12 18:30:05,606 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-12 18:30:10,694 +0530 [main] INFO  (TC_RNB_Activity_003.java:47) - click on save button:
+2022-12-12 18:30:10,695 +0530 [main] INFO  (TC_RNB_Activity_003.java:49) - validation of activity deatils page
+2022-12-12 18:30:10,709 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:30:22,810 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:30:34,873 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:30:46,943 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:30:58,994 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:31:11,058 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:31:23,099 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-12 18:31:50,993 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-12 18:31:55,040 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-12 18:32:01,843 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:32:24,790 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-12 18:32:30,044 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-12 18:32:34,281 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-12 18:32:39,372 +0530 [main] INFO  (TC_RNB_Activity_003.java:47) - click on save button:
+2022-12-12 18:32:39,373 +0530 [main] INFO  (TC_RNB_Activity_003.java:49) - validation of activity deatils page
+2022-12-12 18:32:39,374 +0530 [main] INFO  (TC_RNB_Activity_003.java:53) - check teh expected
+2022-12-12 18:32:39,420 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:32:51,517 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:33:03,613 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:33:15,719 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:33:27,799 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:33:39,879 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-12 18:33:51,997 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:48:04,603 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:48:12,753 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:48:17,421 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:48:33,446 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:48:37,945 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:48:40,252 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:48:40,267 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:52:16,489 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:52:20,699 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:52:25,218 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:52:42,071 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:52:45,084 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:52:48,482 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:52:49,657 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:53:28,573 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:53:32,655 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:53:37,210 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:53:54,717 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:53:57,234 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:54:00,357 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:54:01,560 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:56:01,958 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:56:06,188 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:56:10,960 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:56:29,138 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:56:33,343 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:56:37,549 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:56:38,583 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:57:19,006 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:57:23,190 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:57:29,640 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:57:47,948 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:57:52,005 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:57:56,659 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:58:03,647 +0530 [main] INFO  (TC_RNB_Lead_001.java:47) - validate the result
+2022-12-13 13:58:03,695 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 14:00:21,774 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 14:00:25,866 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 14:00:32,130 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 14:00:50,344 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 14:00:53,473 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 14:00:56,417 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 14:01:04,497 +0530 [main] INFO  (TC_RNB_Lead_001.java:47) - validate the result
+2022-12-13 14:01:08,827 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:05:24,229 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:05:28,526 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:05:36,159 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:05:57,414 +0530 [main] INFO  (TC_RNB_Activity_003.java:35) - click on acitivity module 
+2022-12-13 13:06:02,298 +0530 [main] INFO  (TC_RNB_Activity_003.java:39) - add actvity feature 
+2022-12-13 13:06:07,008 +0530 [main] INFO  (TC_RNB_Activity_003.java:43) - fill all the necessory data
+2022-12-13 13:06:13,658 +0530 [main] INFO  (TC_RNB_Activity_003.java:47) - click on save button:
+2022-12-13 13:06:13,658 +0530 [main] INFO  (TC_RNB_Activity_003.java:49) - validation of activity deatils page
+2022-12-13 13:06:13,660 +0530 [main] INFO  (TC_RNB_Activity_003.java:53) - check teh expected
+2022-12-13 13:06:13,707 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:25,797 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:37,881 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:39,910 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:41,948 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:43,982 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:46,010 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:48,043 +0530 [main] INFO  (TC_RNB_Activity_003.java:29) - enter the valid usernameand password
+2022-12-13 13:06:50,092 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:07:53,332 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:07:58,142 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:08:04,315 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:08:20,784 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:08:25,684 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:08:29,316 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:08:34,383 +0530 [main] INFO  (TC_RNB_Lead_001.java:47) - validate the result
+2022-12-13 13:08:37,740 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
+2022-12-13 13:09:32,294 +0530 [main] INFO  (Baseclass.java:60) - setup chrome driver is lounched
+2022-12-13 13:09:36,728 +0530 [main] INFO  (Baseclass.java:68) - url is loaded
+2022-12-13 13:09:41,516 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:09:59,937 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:10:03,422 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:10:07,267 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:10:14,986 +0530 [main] INFO  (TC_RNB_Lead_001.java:47) - validate the result
+2022-12-13 13:10:18,358 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:10:30,529 +0530 [main] INFO  (TC_RNB_Lead_001.java:33) - click on leadfeature 
+2022-12-13 13:10:33,902 +0530 [main] INFO  (TC_RNB_Lead_001.java:37) - clcik on add lead
+2022-12-13 13:10:36,318 +0530 [main] INFO  (TC_RNB_Lead_001.java:41) - create the lead fill etails
+2022-12-13 13:10:36,351 +0530 [main] INFO  (TC_RNB_Lead_001.java:29) - enter logn details:
+2022-12-13 13:10:48,405 +0530 [main] INFO  (Baseclass.java:80) - browser is closed
