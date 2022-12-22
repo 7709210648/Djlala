@@ -1,0 +1,3 @@
+username:admin
+link:http://localhost:8888/
+password:admin
