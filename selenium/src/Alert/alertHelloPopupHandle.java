@@ -1,5 +1,7 @@
 package Alert;
 
+import java.time.Duration;
+
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -19,6 +21,8 @@ public class alertHelloPopupHandle {
 		driver.get("http://omayo.blogspot.com/");
 
 		driver.manage().window().maximize();
+		
+		driver.manage().timeouts().scriptTimeout(Duration.ofSeconds(23));
 
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 

@@ -1,4 +1,6 @@
-package utility;
+package Test.utility;
+
+
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -48,7 +50,7 @@ public class xlutil {
 		workbook = new XSSFWorkbook(file);
 		sheet = workbook.getSheet(sheetname);
 
-		row = sheet.getRow(1);
+		row = sheet.getRow(0);
 
 		int countcolumn = row.getLastCellNum();
 
